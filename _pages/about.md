@@ -21,28 +21,32 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 
 
 News
-======
+------
 + September 2023, two papers get accepted at Neurips 2023.
-
 + To be honored, I was selected as a Rising Star in EECS 2023.
-
 + August 2023, one paper gets accepted at ICCAD 2023.
-
 + July 2023, I gave a talk on "Software-Hardware Co-Design: Towards Ultimate Efficiency in Deep Learning Acceleration" at the 4TH ROAD4NN WORKSHOP, DAC 2023, San Francisco, CA, USA.
-
 + July 2023, I gave a talk on "Algorithm-Software-Hardware Co-Design for AI Acceleration" at the Session - TINYML: BRING DEEP LEARNING MODELS TO TINY DEVICES, DAC 2023, San Francisco, CA, USA
 
 
-Publications ([Full list](https://scholar.google.com/citations?user=OGU3CVoAAAAJ&hl=zh-TW)).
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Publications ([Full list](https://peiyanflying.github.io/Peggy_Peiyan.github.io/publications/)).
+------
++ <table><tr><td bgcolor=#dd0000>**<font color=white> HPCA 2023 </font>**</td></tr></table> [HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers](https://ieeexplore.ieee.org/abstract/document/10071047)
+  **Peiyan Dong**, Mengshu Sun, Alec Lu, Yanyue Xie, Kenneth Liu, Xue Lin, Zhenman Fang, Yanzhi Wang
++ [TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation](https://dl.acm.org/doi/abs/10.1145/3489517.3530487)
+  **Peiyan Dong**, Yanyue Xie, Hongjia Li, Olivia Chen, Mengshu Sun, Nobuyuki Yoshikawa, Yanzhi Wang
++ [Rtmobile: Beyond real-time mobile acceleration of rnns for speech recognition](https://dl.acm.org/doi/10.5555/3437539.3437579)
+  **Peiyan Dong**, Siyue Wang, Wei Niu, Chengming Zhang, Sheng Lin, Zhengang Li, Yifan Gong, Bin Ren, Xue Lin, Dingwen Tao
++ [FF-Medical: Fast and Fair Medical AI on the Edge through Hardware-oriented Search for Hybrid Vision Models](https://dl.acm.org/doi/10.5555/3437539.3437579)
+  **Peiyan Dong**, Changdi Yang, Yi Sheng, Yanyu Li, Lei Yang, Xue Lin, Yanzhi Wan
++ [HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://dl.acm.org/doi/10.5555/3437539.3437579)
+  **Peiyan Dong**, Zhenglun Kong, Xin Meng, Pinrui Yu, Yanyue Xie, Yifan Gong, Geng Yuan, Fei Sun, Hao Tang, Yanzhi Wang
++ [PackQViT:Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile](https://dl.acm.org/doi/10.5555/3437539.3437579)
+  **Peiyan Dong**, Lei Lu, Chao Wu, Cheng Lyu, Geng Yuan, Hao Tang, Yanzhi Wang
++ [SpeedDETR: Speed-aware Transformers for End-to-end Object Detection](https://proceedings.mlr.press/v202/dong23b/dong23b.pdf)
+  **Peiyan Dong**, Zhenglun Kong, Xin Meng, Peng Zhang, Hao Tang, Yanzhi Wang, Chih-Hsien Chou
 
-Site-wide configuration
+Honors
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
