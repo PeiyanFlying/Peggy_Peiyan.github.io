@@ -34,17 +34,23 @@ Publications ([Full list](https://peiyanflying.github.io/Peggy_Peiyan.github.io/
 + ***<font color=red> HPCA 2023  </font>*** [HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers](https://ieeexplore.ieee.org/abstract/document/10071047)
   
   **Peiyan Dong**, Mengshu Sun, Alec Lu, Yanyue Xie, Kenneth Liu, Xue Lin, Zhenman Fang, Yanzhi Wang
-+ [TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation](https://dl.acm.org/doi/abs/10.1145/3489517.3530487)
++ ***<font color=red> DAC 2022  </font>*** [TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation](https://dl.acm.org/doi/abs/10.1145/3489517.3530487)
+  
   **Peiyan Dong**, Yanyue Xie, Hongjia Li, Olivia Chen, Mengshu Sun, Nobuyuki Yoshikawa, Yanzhi Wang
-+ [Rtmobile: Beyond real-time mobile acceleration of rnns for speech recognition](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> DAC 2020  </font>***  [Rtmobile: Beyond real-time mobile acceleration of rnns for speech recognition](https://dl.acm.org/doi/10.5555/3437539.3437579)
+  
   **Peiyan Dong**, Siyue Wang, Wei Niu, Chengming Zhang, Sheng Lin, Zhengang Li, Yifan Gong, Bin Ren, Xue Lin, Dingwen Tao
-+ [FF-Medical: Fast and Fair Medical AI on the Edge through Hardware-oriented Search for Hybrid Vision Models](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> ASP-DAC 2023  </font>*** [FF-Medical: Fast and Fair Medical AI on the Edge through Hardware-oriented Search for Hybrid Vision Models](https://dl.acm.org/doi/10.5555/3437539.3437579)
+  
   **Peiyan Dong**, Changdi Yang, Yi Sheng, Yanyu Li, Lei Yang, Xue Lin, Yanzhi Wan
-+ [HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> Neurips 2023  </font>***[HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://dl.acm.org/doi/10.5555/3437539.3437579)
+  
   **Peiyan Dong**, Zhenglun Kong, Xin Meng, Pinrui Yu, Yanyue Xie, Yifan Gong, Geng Yuan, Fei Sun, Hao Tang, Yanzhi Wang
-+ [PackQViT:Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> Neurips 2023  </font>*** [PackQViT:Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile](https://dl.acm.org/doi/10.5555/3437539.3437579)
+  
   **Peiyan Dong**, Lei Lu, Chao Wu, Cheng Lyu, Geng Yuan, Hao Tang, Yanzhi Wang
-+ [SpeedDETR: Speed-aware Transformers for End-to-end Object Detection](https://proceedings.mlr.press/v202/dong23b/dong23b.pdf)
++ ***<font color=red> ICML 2023  </font>*** [SpeedDETR: Speed-aware Transformers for End-to-end Object Detection](https://proceedings.mlr.press/v202/dong23b/dong23b.pdf)
+
   **Peiyan Dong**, Zhenglun Kong, Xin Meng, Peng Zhang, Hao Tang, Yanzhi Wang, Chih-Hsien Chou
 
 Honors
