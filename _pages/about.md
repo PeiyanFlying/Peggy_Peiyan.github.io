@@ -29,9 +29,9 @@ News
 + July 2023, I gave a talk on "Algorithm-Software-Hardware Co-Design for AI Acceleration" at the Session - TINYML: BRING DEEP LEARNING MODELS TO TINY DEVICES, DAC 2023, San Francisco, CA, USA
 
 
-Publications ([Full list](https://peiyanflying.github.io/Peggy_Peiyan.github.io/publications/)).
+Publications ([Full list](https://peiyanflying.github.io/Peggy_Peiyan.github.io/publications/))
 ------
-+ ***<font color=red> HPCA 2023 </font>*** [HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers](https://ieeexplore.ieee.org/abstract/document/10071047)
++ ***<font color=red> HPCA 2023  </font>*** [HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers](https://ieeexplore.ieee.org/abstract/document/10071047)
   
   **Peiyan Dong**, Mengshu Sun, Alec Lu, Yanyue Xie, Kenneth Liu, Xue Lin, Zhenman Fang, Yanzhi Wang
 + [TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation](https://dl.acm.org/doi/abs/10.1145/3489517.3530487)
