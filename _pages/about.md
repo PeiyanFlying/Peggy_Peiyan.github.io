@@ -84,7 +84,7 @@ Education
   01/2017 – 012/2019
 
   Northeastern University, Boston, MA, USA
-  + ***Bachelor’s in Information Engineering*** GPA: 3.8/4.0
++ ***Bachelor’s in Information Engineering*** GPA: 3.8/4.0
 
   01/2012 – 012/2016
 
