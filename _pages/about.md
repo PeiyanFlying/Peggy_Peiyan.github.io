@@ -31,7 +31,8 @@ News
 
 Publications ([Full list](https://peiyanflying.github.io/Peggy_Peiyan.github.io/publications/)).
 ------
-+ <table><tr><td bgcolor=#dd0000>**<font color=white> HPCA 2023 </font>**</td></tr></table> [HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers](https://ieeexplore.ieee.org/abstract/document/10071047)
++ ***<font color=red> HPCA 2023 </font>*** [HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers](https://ieeexplore.ieee.org/abstract/document/10071047)
+  
   **Peiyan Dong**, Mengshu Sun, Alec Lu, Yanyue Xie, Kenneth Liu, Xue Lin, Zhenman Fang, Yanzhi Wang
 + [TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation](https://dl.acm.org/doi/abs/10.1145/3489517.3530487)
   **Peiyan Dong**, Yanyue Xie, Hongjia Li, Olivia Chen, Mengshu Sun, Nobuyuki Yoshikawa, Yanzhi Wang
