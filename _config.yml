@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Boston"
-title                    : "Peiyan Dong/Doctor"
+title                    : "Peiyan Dong/Dr."
 title_separator          : "."
 name                     : &name "Peiyan (Peggie)"
 description              : &description "personal description"
