@@ -53,10 +53,10 @@ Publications ([Full list](https://scholar.google.com/citations?user=OGU3CVoAAAAJ
 + ***<font color=red> ASP-DAC 2023  </font>*** [FF-Medical: Fast and Fair Medical AI on the Edge through Hardware-oriented Search for Hybrid Vision Models](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
   **Peiyan Dong**, Changdi Yang, Yi Sheng, Yanyu Li, Lei Yang, Xue Lin, Yanzhi Wang
-+ ***<font color=red> Neurips 2023  </font>***[HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> NeurIPS 2023  </font>***[HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
   **Peiyan Dong**, Zhenglun Kong, Xin Meng, Pinrui Yu, Yanyue Xie, Yifan Gong, Geng Yuan, Fei Sun, Hao Tang, Yanzhi Wang
-+ ***<font color=red> Neurips 2023  </font>*** [PackQViT:Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> NeurIPS 2023  </font>*** [PackQViT: Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
   **Peiyan Dong**, Lei Lu, Chao Wu, Cheng Lyu, Geng Yuan, Hao Tang, Yanzhi Wang
 + ***<font color=red> ICML 2023  </font>*** [SpeedDETR: Speed-aware Transformers for End-to-end Object Detection](https://proceedings.mlr.press/v202/dong23b/dong23b.pdf)
@@ -86,7 +86,7 @@ Publications ([Full list](https://scholar.google.com/citations?user=OGU3CVoAAAAJ
 + ***<font color=red> DAC 2023 WIP  </font>*** [SuperFlow: An RTL-to-GDS Design Automation Flow for AQFP Superconducting Devices](https://ieeexplore.ieee.org/abstract/document/10247761)
 
   Yanyue Xie*, __Peiyan Dong*__, Geng Yuan, Zhengang Li, Chao Wu, Sung-En Chang, Xufeng Zhang, Olivia Chen, Nobuyuki Yoshikawa, Yanzhi Wang
-+ ***<font color=red> DAC 2023  </font>*** [Quantum Neural Network Compression](https://dl.acm.org/doi/abs/10.1145/3508352.3549382)
++ ***<font color=red> ICCAD 2022  </font>*** [Quantum Neural Network Compression](https://dl.acm.org/doi/abs/10.1145/3508352.3549382)
 
   Zhirui Hu, **Peiyan Dong**, Zhepeng Wang, Youzuo Lin, Yanzhi Wang, Weiwen Jiang
 + ***<font color=red> RTAS 2021  </font>*** [Work in Progress: Mobile or FPGA? A Comprehensive Evaluation on Energy Efficiency and a Unified Optimization Framework](https://ieeexplore.ieee.org/document/9470459)
