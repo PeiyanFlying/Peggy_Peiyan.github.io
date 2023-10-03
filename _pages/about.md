@@ -134,10 +134,10 @@ Invited Talks
 ------
 + ***<font color=red> 4TH ROAD4NN WORKSHOP, DAC 2023</font>*** San Francisco, CA, USA
 
-  **TALK:** Software-Hardware Co-Design: Towards Ultimate Efficiency in Deep Learning Acceleration
+  **TALK:** [Software-Hardware Co-Design: Towards Ultimate Efficiency in Deep Learning Acceleration](https://www.sigarch.org/call-contributions/dac-road4nn-2023/)
 + ***<font color=red> TINYML: BRING DEEP LEARNING MODELS TO TINY DEVICES, DAC 2023</font>*** San Francisco, CA, USA
 
-  **TALK:** Algorithm-Software-Hardware Co-Design for AI Acceleration
+  **TALK:** [Algorithm-Software-Hardware Co-Design for AI Acceleration](https://www.dac.com/)
 
 
 Honors
