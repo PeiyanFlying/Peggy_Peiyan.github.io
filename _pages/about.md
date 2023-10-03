@@ -98,19 +98,19 @@ Publications ([Full list](https://scholar.google.com/citations?user=OGU3CVoAAAAJ
 + ***<font color=red> ISSCC 2021 SRP  </font>*** [A 22.3 nJ/Frame low-Memory beyond-real-Time keyword Spotting Chip with Configurable Feature Extraction and Distributed Perceptual Computation](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200127)
 
   Qin Li, Changlu Liu, **Peiyan Dong**, Yanming Zhang, Tong Li, Minda Yang, Fei Qiao, Yanzhi Wang, Li Luo, Huazhong Yang
-+ ***<font color=red> Advanced Intelligent Systems (2022) (Impact Factor 7.4)  </font>*** [Floating Gate Transistor-Based Accurate Digital In-Memory Computing for Deep Neural Networks](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200127)
++ ***<font color=red> Advanced Intelligent Systems 2022 (Impact Factor 7.4)  </font>*** [Floating Gate Transistor-Based Accurate Digital In-Memory Computing for Deep Neural Networks](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200127)
 
   Runze Han, Peng Huang, Yachen Xiang, Hong Hu, Sheng Lin, **Peiyan Dong**, Wensheng Shen, Yanzhi Wang, Xiaoyan Liu, Jinfeng Kang
-+ ***<font color=red> TPAMI (2022) (Impact Factor 23.6)  </font>*** [GRIM: A General, Real-Time Deep Learning Inference Framework for Mobile Devices based on Fine-Grained Structured Weight Sparsity](https://dl.acm.org/doi/10.1109/TPAMI.2021.3089687)
++ ***<font color=red> TPAMI 2022 (Impact Factor 23.6)  </font>*** [GRIM: A General, Real-Time Deep Learning Inference Framework for Mobile Devices based on Fine-Grained Structured Weight Sparsity](https://dl.acm.org/doi/10.1109/TPAMI.2021.3089687)
 
   Wei Niu, Zhengang Li, Xiaolong Ma, **Peiyan Dong**, Gang Zhou, Xuehai Qian, Xue Lin, Yanzhi Wang, Bin Ren
-+ ***<font color=red> TCASI (2021) (Impact Factor 5.1)  </font>*** [NS-FDN: Near-Sensor Processing Architecture of Feature Configurable Distributed Network for Beyond-Real-Time Always-on Keyword Spotting](https://ieeexplore.ieee.org/abstract/document/9362330)
++ ***<font color=red> TCASI 2021 (Impact Factor 5.1)  </font>*** [NS-FDN: Near-Sensor Processing Architecture of Feature Configurable Distributed Network for Beyond-Real-Time Always-on Keyword Spotting](https://ieeexplore.ieee.org/abstract/document/9362330)
 
   Qin Li, Changlu Liu, **Peiyan Dong**, Yanming Zhang, Tong Li, Sheng Lin, Minda Yang, Fei Qiao, Yanzhi Wang, Li Luo, Huazhong Yang
-+ ***<font color=red> AAAI (2023) </font>*** [Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training](https://ojs.aaai.org/index.php/AAAI/article/view/26008)
++ ***<font color=red> AAAI 2023 </font>*** [Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training](https://ojs.aaai.org/index.php/AAAI/article/view/26008)
 
   Zhenglun Kong, Haoyu Ma, Geng Yuan, Mengshu Sun, Yanyue Xie, **Peiyan Dong**, Xuan Shen, Hao Tang, Minghai Qin, Tianlong Chen, Xiaolong Ma, Xiaohui Xie, Zhangyang Wang, Yanzhi Wang
-+ ***<font color=red> IJCAI (2023) </font>*** [Data Level Lottery Ticket Hypothesis for Vision Transformers](https://arxiv.org/abs/2211.01484)
++ ***<font color=red> IJCAI 2023 </font>*** [Data Level Lottery Ticket Hypothesis for Vision Transformers](https://arxiv.org/abs/2211.01484)
 
   Xuan Shen, Zhenglun Kong, Minghai Qin, **Peiyan Dong**, Geng Yuan, Xin Meng, Hao Tang, Xiaolong Ma, Yanzhi Wang
 + ***<font color=red> ECCV 2022 </font>*** [You Already Have It: A Generator-Free Low-Precision DNN Training Framework Using Stochastic Rounding](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_3)
