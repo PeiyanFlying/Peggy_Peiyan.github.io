@@ -79,7 +79,7 @@ Publications ([Full list](https://scholar.google.com/citations?user=OGU3CVoAAAAJ
   **Peiyan Dong**, Changdi Yang, Yi Sheng, Zhenglun Kong, Yanyu Li, Pinrui Yu, Lei Yang, Xue Lin
 + ***<font color=red> DAC 2023  </font>*** [Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration](https://arxiv.org/abs/2309.12212)
 
-  Zhengang Li*, __Peiyan Dong*__, Yanyue Xie*, Olivia Chen, Yanzhi Wang Yanyue Xie, **Peiyan Dong**, Olivia Chen, Yanzhi Wang
+  Zhengang Li*, __Peiyan Dong*__, Yanyue Xie*, Olivia Chen, Yanzhi Wang
 + ***<font color=red> DAC 2023  </font>*** [Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge: Late Breaking Results](https://ieeexplore.ieee.org/abstract/document/10247761)
 
   Changdi Yang*, __Peiyan Dong*__, Yi Sheng, Zhenglun Kong, Yanyu Li, Pinrui Yu, Lei Yang, Xue Lin
