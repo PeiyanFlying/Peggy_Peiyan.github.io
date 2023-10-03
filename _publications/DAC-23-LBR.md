@@ -1,5 +1,5 @@
 ---
-title: "Invited: Algorithm- Software-Hardware Co-Design for Deep Learning Acceleration"
+title: "Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge: Late Breaking Results"
 collection: publications
 permalink: /publication/DAC-23-LBR.md
 date: 2023-7-31
