@@ -124,6 +124,12 @@ https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblog
 
   Ao Ren, Tao Zhang, Yuhao Wang, Sheng Lin, **Peiyan Dong**, Yen-kuang Chen, Yuan Xie, Yanzhi Wang
 
+Patents
+------
++ ***<font color=red> US Patent</font>*** [Computer-implemented methods and systems for compressing recurrent neural network (rnn) models and accelerating rnn execution in mobile devices to achieve real-time inference](https://patents.google.com/patent/US20230056315A1/en)
+
+  Yanzhi Wang, **Peiyan Dong**, Zhengang Li, Bin Ren, Wei Niu
+
 
 
 Honors
