@@ -83,6 +83,9 @@ Publications ([Full list](https://scholar.google.com/citations?user=OGU3CVoAAAAJ
 + ***<font color=red> DAC 2023  </font>*** [Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge: Late Breaking Results](https://ieeexplore.ieee.org/abstract/document/10247761)
 
   Changdi Yang*, __Peiyan Dong*__, Yi Sheng, Zhenglun Kong, Yanyu Li, Pinrui Yu, Lei Yang, Xue Lin
++ ***<font color=red> DAC 2023 WIP  </font>*** [SuperFlow: An RTL-to-GDS Design Automation Flow for AQFP Superconducting Devices](https://ieeexplore.ieee.org/abstract/document/10247761)
+
+  Yanyue Xie*, __Peiyan Dong*__, Geng Yuan, Zhengang Li, Chao Wu, Sung-En Chang, Xufeng Zhang, Olivia Chen, Nobuyuki Yoshikawa, Yanzhi Wang
 + ***<font color=red> DAC 2023  </font>*** [Quantum Neural Network Compression](https://dl.acm.org/doi/abs/10.1145/3508352.3549382)
 
   Zhirui Hu, **Peiyan Dong**, Zhepeng Wang, Youzuo Lin, Yanzhi Wang, Weiwen Jiang
