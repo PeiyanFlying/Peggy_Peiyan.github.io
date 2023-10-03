@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final Ph.D. Student at Northeastern University, Boston, advised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/).
+I am a final-year Ph.D. Student at Northeastern University, Boston, advised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/).
 
 **<font color=red> I’m on academic job market this year, please reach out for any opportunities! </font>**
 
