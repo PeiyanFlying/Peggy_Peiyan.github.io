@@ -1,5 +1,5 @@
 ---
-title: "CSB-RNN: a faster-than-realtime RNN acceleration framework with compressed structured blocks"
+title: "SupeRBNN: Randomized Binary Neural Network Using Adiabatic Superconductor Josephson Devices"
 collection: publications
 permalink: /publication/MICRO-2023.md
 date: 2020-3-31
