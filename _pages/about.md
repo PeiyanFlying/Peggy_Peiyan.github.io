@@ -67,11 +67,11 @@ Honors
 ------
 + **EECS Rising Star Award**, The EECS Rising Stars Workshop, 2023
 + **Oral Paper Award**, The 37th Annual AAAI Conference on Artificial Intelligence, 202
-+ **SpotlightPaperAward**, The IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop, 2022
++ **Spotlight Paper Award**, The IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop, 2022
 + **M Award**, The Mathematical Contest in Modeling (MCM)/The Interdisciplinary Contest in Modeling (ICM), 2015
-+ **1st Award (NationalLevel)**, China National College Students Math Modelling Competition 2015
++ **1st Award (National Level)**, China National College Students Math Modelling Competition 2015
 + **H Award**, The Mathematical Contest in Modeling (MCM)/The Interdisciplinary Contest in Modeling (ICM), 2014
-+ **1st Award (ProvincialLevel)**, China National College Students Math Modelling Competition 2014
++ **1st Award (Provincial Level)**, China National College Students Math Modelling Competition 2014
 + **1st Award**, BIT Math Modelling Competition of Beijing Institute of Technology, 2014
 + **2nd Award**, BIT Math Modelling Competition of Beijing Institute of Technology, 2013
 
