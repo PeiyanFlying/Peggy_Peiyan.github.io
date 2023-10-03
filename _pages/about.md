@@ -52,7 +52,7 @@ Publications ([Full list](https://scholar.google.com/citations?user=OGU3CVoAAAAJ
   **Peiyan Dong**, Mengshu Sun, Yanyue Xie, Xue Lin, Zhenman Fang, Yanzhi Wang
 + ***<font color=red> ASP-DAC 2023  </font>*** [FF-Medical: Fast and Fair Medical AI on the Edge through Hardware-oriented Search for Hybrid Vision Models](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
-  **Peiyan Dong**, Changdi Yang, Yi Sheng, Yanyu Li, Lei Yang, Xue Lin, Yanzhi Wan
+  **Peiyan Dong**, Changdi Yang, Yi Sheng, Yanyu Li, Lei Yang, Xue Lin, Yanzhi Wang
 + ***<font color=red> Neurips 2023  </font>***[HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
   **Peiyan Dong**, Zhenglun Kong, Xin Meng, Pinrui Yu, Yanyue Xie, Yifan Gong, Geng Yuan, Fei Sun, Hao Tang, Yanzhi Wang
