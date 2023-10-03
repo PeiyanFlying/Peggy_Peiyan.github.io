@@ -1,5 +1,5 @@
 ---
-title: "Invited: Algorithm- Software-Hardware Co-Design for Deep Learning Acceleration"
+title: "Invited: Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration"
 collection: publications
 permalink: /publication/DAC-23-Codesign.md
 date: 2023-7-31
