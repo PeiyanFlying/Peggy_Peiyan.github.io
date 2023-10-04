@@ -47,7 +47,7 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
   **Peiyan Dong**, Yanyue Xie, Hongjia Li, Olivia Chen, Mengshu Sun, Nobuyuki Yoshikawa, Yanzhi Wang
 + ***<font color=red> DAC 2020  </font>***  [Rtmobile: Beyond real-time mobile acceleration of rnns for speech recognition](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
-  **Peiyan Dong**, Siyue Wang, Wei Niu, Chengming Zhang, Sheng Lin, Zhengang Li, Yifan Gong, Bin Ren, Xue Lin, Dingwen Tao
+  **Peiyan Dong**, Siyue Wang, Wei Niu, Chengming Zhang, Sheng Lin, Bin Ren, Xue Lin, Dingwen Tao
 + ***<font color=red> TCAD 2023  </font>***  [HetaViT: Hardware-Efficient and Token-Aware Joint Compression with Pruning and Quantization for Vision Transformers](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
   **Peiyan Dong**, Mengshu Sun, Yanyue Xie, Xue Lin, Zhenman Fang, Yanzhi Wang
@@ -56,7 +56,7 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
   **Peiyan Dong**, Changdi Yang, Yi Sheng, Yanyu Li, Lei Yang, Xue Lin, Yanzhi Wang
 + ***<font color=red> NeurIPS 2023  </font>***[HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
-  **Peiyan Dong**, Zhenglun Kong, Xin Meng, Pinrui Yu, Yanyue Xie, Yifan Gong, Geng Yuan, Fei Sun, Hao Tang, Yanzhi Wang
+  **Peiyan Dong**, Zhenglun Kong, Xin Meng, Geng Yuan, Fei Sun, Hao Tang, Yanzhi Wang
 + ***<font color=red> NeurIPS 2023  </font>*** [PackQViT: Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
   **Peiyan Dong**, Lei Lu, Chao Wu, Cheng Lyu, Geng Yuan, Hao Tang, Yanzhi Wang
@@ -77,7 +77,7 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
   Zhengang Li, Geng Yuan, Tomoharu Yamauchi, Zabihi Masoud, Yanyue Xie, **Peiyan Dong**, Xulong Tang, Nobuyuki Yoshikawa, Devesh Tiwari, Yanzhi Wang, Olivia Chen
 + ***<font color=red> ICCAD 2023  </font>*** [Fast and Fair Medical AI on the Edge through Neural Architecture Search for Hybrid Vision Models](https://arxiv.org/abs/2309.12212)
 
-  **Peiyan Dong**, Changdi Yang, Yi Sheng, Zhenglun Kong, Yanyu Li, Pinrui Yu, Lei Yang, Xue Lin
+  **Peiyan Dong**, Changdi Yang, Yi Sheng, Zhenglun Kong, Yanyu Li, Lei Yang, Xue Lin
 + ***<font color=red> DAC 2023  </font>*** [Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration](https://arxiv.org/abs/2309.12212)
 
   Zhengang Li*, __Peiyan Dong*__, Yanyue Xie, Olivia Chen, Yanzhi Wang
@@ -86,7 +86,7 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
   Changdi Yang*, __Peiyan Dong*__, Yi Sheng, Zhenglun Kong, Yanyu Li, Pinrui Yu, Lei Yang, Xue Lin
 + ***<font color=red> DAC 2023 WIP  </font>*** [SuperFlow: An RTL-to-GDS Design Automation Flow for AQFP Superconducting Devices](https://ieeexplore.ieee.org/abstract/document/10247761)
 
-  Yanyue Xie*, __Peiyan Dong*__, Geng Yuan, Zhengang Li, Chao Wu, Sung-En Chang, Xufeng Zhang, Olivia Chen, Nobuyuki Yoshikawa, Yanzhi Wang
+  Yanyue Xie*, __Peiyan Dong*__, Geng Yuan, Zhengang Li, Xufeng Zhang, Olivia Chen, Nobuyuki Yoshikawa, Yanzhi Wang
 + ***<font color=red> ICCAD 2022  </font>*** [Quantum Neural Network Compression](https://dl.acm.org/doi/abs/10.1145/3508352.3549382)
 
   Zhirui Hu, **Peiyan Dong**, Zhepeng Wang, Youzuo Lin, Yanzhi Wang, Weiwen Jiang
