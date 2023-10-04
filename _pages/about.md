@@ -156,18 +156,19 @@ Honors
 Education
 ------
 + ***Ph.D. Candidate in Computer Engineering***, GPA: 4.0/4.0
-
-  01/2020 – 05/2024
-
-  Northeastern University, Boston, MA, USA
 + ***M.S. in Operation Research***, GPA: 3.9/4.0
-
-  01/2017 – 012/2019
-
+  
+  01/2017 – 05/2024
+  
   Northeastern University, Boston, MA, USA
++ ***Team Organizer in Mathematical Modeling Training Center***
+
+  06/2016 – 12/2016
+
+  Beijing Institute of Technology, Beijing, China
 + ***Bachelor’s in Information Engineering*** GPA: 3.8/4.0
 
-  01/2012 – 012/2016
+  06/2012 – 06/2016
 
   Beijing Institute of Technology, Beijing, China
 
