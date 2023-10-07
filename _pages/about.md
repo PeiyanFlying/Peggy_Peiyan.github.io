@@ -121,7 +121,7 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
 https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-37-98/Yanyu-Li-_2D00_-A-Compiler_2D00_aware-Framework-of-Network-Pruning-Search-Achieving-Beyond-Real_2D00_Time-Mobile-Acceleration.pdf)
 
   Yanyu Li, Geng Yuan, Zhengang Li, Wei Niu, Pu Zhao, **Peiyan Dong**, Yuxuan Cai, Xuan Shen, Zheng Zhan, Zhenglun Kong, Qing Jin, Bin Ren, Yanzhi Wang, Xue Lin
-+ ***<font color=red> ECCV 2022 </font>*** [DARB: A Density-Adaptive Regular-Block Pruning for Deep Neural Networks](https://arxiv.org/abs/1911.08020)
++ ***<font color=red> AAAI 2022 </font>*** [DARB: A Density-Adaptive Regular-Block Pruning for Deep Neural Networks](https://arxiv.org/abs/1911.08020)
 
   Ao Ren, Tao Zhang, Yuhao Wang, Sheng Lin, **Peiyan Dong**, Yen-kuang Chen, Yuan Xie, Yanzhi Wang
 
