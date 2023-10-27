@@ -25,7 +25,7 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 (III) Machine learning algorithm conferences such as NeurIPS, ICML, CVPR, AAAI, ECCV, IJCAI, AAAI.
 (IV) Journal publications including TCAD, Advanced Intelligent Systems, TCASI, TECS, TPAMI.
 
-More details can see my [CV](https://drive.google.com/file/d/1Z_sfHiBV29jnvt7G5t49Inq7XvjU3_tS/view?usp=sharing).
+More details can see my [CV](https://drive.google.com/file/d/10eGHpx04ob_kHkKQC4qBxbYQEYXjPTlP/view?usp=sharing).
 
 
 News
