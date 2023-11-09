@@ -19,7 +19,7 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 + Efficient Deep Learning on Superconducting Devices
 + Emerging Deep Learning Systems
 
-**Summary**: There are 16 first/co-first author publications ranging from:
+**Summary**: There are 17 first/co-first author publications ranging from:
 (I) EDA, solid-state circuit, and system conferences such as DAC, ICCAD, ISSCC, ASP-DAC, RTAS, MLSys.
 (II) Architecture and computer system conferences such as MICRO, HPCA, ICS.
 (III) Machine learning algorithm conferences such as NeurIPS, ICML, CVPR, AAAI, ECCV, IJCAI, AAAI.
