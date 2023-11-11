@@ -19,17 +19,20 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 + Efficient Deep Learning on Superconducting Devices
 + Emerging Deep Learning Systems
 
-**Summary**: There are 17 first/co-first author publications ranging from:
-(I) EDA, solid-state circuit, and system conferences such as DAC, ICCAD, ISSCC, ASP-DAC, RTAS, MLSys.
+**Summary**: There are 36 publications on top conferences/journals ranging from:
+(I) EDA, solid-state circuit, and system conferences such as DAC, ICCAD, DATE, ISSCC, ASP-DAC, RTAS, MLSys.
 (II) Architecture and computer system conferences such as MICRO, HPCA, ICS.
 (III) Machine learning algorithm conferences such as NeurIPS, ICML, CVPR, AAAI, ECCV, IJCAI, AAAI.
 (IV) Journal publications including TCAD, Advanced Intelligent Systems, TCASI, TECS, TPAMI.
+
+Among these, There are 17 first/co-first author publications.
 
 More details can see my [CV](https://drive.google.com/file/d/10eGHpx04ob_kHkKQC4qBxbYQEYXjPTlP/view?usp=sharing).
 
 
 News
 ------
++ November 2023, one design automation tool for Superconducting circuits, AQFP, gets accepted at DATE 2023.
 + September 2023, two papers get accepted at Neurips 2023.
 + To be honored, I was selected as a Rising Star in EECS 2023.
 + August 2023, one paper gets accepted at ICCAD 2023.
@@ -81,6 +84,9 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
 + ***<font color=red> DAC 2023  </font>*** [Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration](https://arxiv.org/abs/2309.12212)
 
   Zhengang Li*, __Peiyan Dong*__, Yanyue Xie, Olivia Chen, Yanzhi Wang
++ ***<font color=red> DATE 2023  </font>*** [SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits](https://arxiv.org/abs/2309.12212)
+
+  __Peiyan Dong*__, Yanyue Xie*, Geng Yuan, Zhengang Li, Masoud Zabihi, Chao Wu, Sung-En Chang, Xufeng Zhang, Xue Lin, Caiwen Ding, Nobuyuki Yoshikawa, Olivia Chen, Yanzhi Wang
 + ***<font color=red> DAC 2023  </font>*** [Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge: Late Breaking Results](https://ieeexplore.ieee.org/abstract/document/10247761)
 
   Changdi Yang*, __Peiyan Dong*__, Yi Sheng, Zhenglun Kong, Yanyu Li, Pinrui Yu, Lei Yang, Xue Lin
