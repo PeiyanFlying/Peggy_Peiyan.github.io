@@ -12,7 +12,7 @@ I am a final-year Ph.D. Student at Northeastern University, Boston, advised by [
 
 **<font color=red> I’m on academic job market this year, please reach out for any opportunities! </font>**
 
-My research area is the intersection of Software-Hardware Co-design, Efficient AI, Hardware Architecture, Efficient Emerging Devices:
+My research area is the intersection of Software-Hardware Co-design, Efficient AI System, Hardware Architecture, and Efficient Emerging Devices:
 
 + Hardware and Software Co-design for DNN Architecture
 + Inference/Energy-Efficient Artificial Intelligence Systems
