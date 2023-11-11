@@ -12,7 +12,7 @@ I am a final-year Ph.D. Student at Northeastern University, Boston, advised by [
 
 **<font color=red> I’m on academic job market this year, please reach out for any opportunities! </font>**
 
-My research area is the intersection of Software-Hardware Co-design, Efficient AI, Hardware Architecture, SuperConducting Logic:
+My research area is the intersection of Software-Hardware Co-design, Efficient AI, Hardware Architecture, Efficient Emerging Devices:
 
 + Hardware and Software Co-design for DNN Architecture
 + Inference/Energy-Efficient Artificial Intelligence Systems
@@ -24,7 +24,7 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 (III) Machine learning algorithm conferences such as NeurIPS, ICML, CVPR, AAAI, ECCV, IJCAI, AAAI.
 (IV) Journal publications including TCAD, Advanced Intelligent Systems, TCASI, TECS, TPAMI.
 
-Among these, There are 17 first/co-first author publications.
+Among these, there are 17 first/co-first author publications.
 
 More details can see my [CV](https://drive.google.com/file/d/10eGHpx04ob_kHkKQC4qBxbYQEYXjPTlP/view?usp=sharing).
 
