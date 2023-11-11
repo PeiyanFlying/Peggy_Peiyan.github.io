@@ -15,9 +15,8 @@ I am a final-year Ph.D. Student at Northeastern University, Boston, advised by [
 My research area is the intersection of Software-Hardware Co-design, Efficient AI, Hardware Architecture, SuperConducting Logic:
 
 + Hardware and Software Co-design for DNN Architecture
-+ Inference-Efficient/Energy-Efficient Artificial Intelligence Systems
-+ Efficient Deep Learning on Superconducting Devices
-+ Emerging Deep Learning Systems
++ Inference/Energy-Efficient Artificial Intelligence Systems
++ Efficient Emerging Deep Learning Systems (Superconducting devices, Quantum Circuits)
 
 **Summary**: There are 36 publications on top conferences/journals ranging from:
 (I) EDA, solid-state circuit, and system conferences such as DAC, ICCAD, DATE, ISSCC, ASP-DAC, RTAS, MLSys.
