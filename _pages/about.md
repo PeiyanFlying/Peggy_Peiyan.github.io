@@ -149,7 +149,8 @@ Invited Talks
 Honors
 ------
 + **EECS Rising Star Award**, The EECS Rising Stars Workshop, 2023
-+ **Oral Paper Award**, The 37th Annual AAAI Conference on Artificial Intelligence, 202
++ **Northeastern University Dissertation Completion Fellowships**, 2023
++ **Oral Paper Award**, The 37th Annual AAAI Conference on Artificial Intelligence, 2022
 + **Spotlight Paper Award**, The IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop, 2022
 + **M Award**, The Mathematical Contest in Modeling (MCM)/The Interdisciplinary Contest in Modeling (ICM), 2015
 + **1st Award (National Level)**, China National College Students Math Modelling Competition 2015
