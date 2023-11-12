@@ -35,7 +35,7 @@ News
 + September 2023, **two** papers get accepted at **Neurips 2023**.
 + To be honored, I was selected as a **Rising Star** in EECS 2023.
 + August 2023, one paper gets accepted at **ICCAD 2023**.
-+ July 2023, I gave a talk on "Software-Hardware Co-Design: Towards Ultimate Efficiency in Deep Learning Acceleration" at the **4TH ROAD4NN WORKSHOP**, **DAC 202**3, San Francisco, CA, USA.
++ July 2023, I gave a talk on "Software-Hardware Co-Design: Towards Ultimate Efficiency in Deep Learning Acceleration" at the **4TH ROAD4NN WORKSHOP**, **DAC 2023**, San Francisco, CA, USA.
 + July 2023, I gave a talk on "Algorithm-Software-Hardware Co-Design for AI Acceleration" at the Session - **TINYML: BRING DEEP LEARNING MODELS TO TINY DEVICES**, **DAC 2023**, San Francisco, CA, USA
 
 
