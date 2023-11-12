@@ -10,33 +10,33 @@ redirect_from:
 
 I am a final-year Ph.D. Student at Northeastern University, Boston, advised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/).
 
-**<font color=red> I’m on academic job market this year, please reach out for any opportunities! </font>**
+**<font color=red> I’m on the academic job market this year. Please reach out for any opportunities! </font>**
 
-My research area is the intersection of Software-Hardware Co-design, Efficient AI System, Hardware Architecture, and Efficient Emerging Devices:
+My research area is the intersection of Software-Hardware Co-design, Efficient AI Systems, Hardware Architecture, and Efficient Emerging Devices:
 
 + Hardware and Software Co-design for DNN Architecture
 + Inference/Energy-Efficient Artificial Intelligence Systems
 + Efficient Emerging Deep Learning Systems (Superconducting devices, Quantum Circuits)
 
-**Summary**: There are 36 publications on top conferences/journals ranging from:
+**Summary**: There are **36 publications** on top conferences/journals ranging from:
 (I) EDA, solid-state circuit, and system conferences such as DAC, ICCAD, DATE, ISSCC, ASP-DAC, RTAS, MLSys.
 (II) Architecture and computer system conferences such as MICRO, HPCA, ICS.
 (III) Machine learning algorithm conferences such as NeurIPS, ICML, CVPR, AAAI, ECCV, IJCAI, AAAI.
 (IV) Journal publications including TCAD, Advanced Intelligent Systems, TCASI, TECS, TPAMI.
 
-Among these, there are 17 first/co-first author publications.
+Among these, there are **17 first/co-first** author publications.
 
-More details can see my [CV](https://drive.google.com/file/d/1wt5-rDC7ZY0U_868kTO7ciaJu2JbS4fU/view?usp=sharing).
+For more details, please see my [CV](https://drive.google.com/file/d/1wt5-rDC7ZY0U_868kTO7ciaJu2JbS4fU/view?usp=sharing).
 
 
 News
 ------
-+ November 2023, one design automation tool for Superconducting circuits, AQFP, gets accepted at DATE 2023.
-+ September 2023, two papers get accepted at Neurips 2023.
-+ To be honored, I was selected as a Rising Star in EECS 2023.
-+ August 2023, one paper gets accepted at ICCAD 2023.
-+ July 2023, I gave a talk on "Software-Hardware Co-Design: Towards Ultimate Efficiency in Deep Learning Acceleration" at the 4TH ROAD4NN WORKSHOP, DAC 2023, San Francisco, CA, USA.
-+ July 2023, I gave a talk on "Algorithm-Software-Hardware Co-Design for AI Acceleration" at the Session - TINYML: BRING DEEP LEARNING MODELS TO TINY DEVICES, DAC 2023, San Francisco, CA, USA
++ November 2023, one **design automation tool** for Superconducting circuits, AQFP, gets accepted at **DATE 2023**.
++ September 2023, **two** papers get accepted at **Neurips 2023**.
++ To be honored, I was selected as a **Rising Star** in EECS 2023.
++ August 2023, one paper gets accepted at **ICCAD 2023**.
++ July 2023, I gave a talk on "Software-Hardware Co-Design: Towards Ultimate Efficiency in Deep Learning Acceleration" at the **4TH ROAD4NN WORKSHOP**, **DAC 202**3, San Francisco, CA, USA.
++ July 2023, I gave a talk on "Algorithm-Software-Hardware Co-Design for AI Acceleration" at the Session - **TINYML: BRING DEEP LEARNING MODELS TO TINY DEVICES**, **DAC 2023**, San Francisco, CA, USA
 
 
 Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU3CVoAAAAJ&hl=zh-TW))
