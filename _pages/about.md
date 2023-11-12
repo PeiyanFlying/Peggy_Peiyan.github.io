@@ -26,7 +26,7 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 
 Among these, there are 17 first/co-first author publications.
 
-More details can see my [CV](https://drive.google.com/file/d/10eGHpx04ob_kHkKQC4qBxbYQEYXjPTlP/view?usp=sharing).
+More details can see my [CV](https://drive.google.com/file/d/1wt5-rDC7ZY0U_868kTO7ciaJu2JbS4fU/view?usp=sharing).
 
 
 News
