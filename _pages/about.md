@@ -85,7 +85,7 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
   Zhengang Li*, __Peiyan Dong*__, Yanyue Xie, Olivia Chen, Yanzhi Wang
 + ***<font color=red> DATE 2023  </font>*** [SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits](https://arxiv.org/abs/2309.12212)
 
-  __Peiyan Dong*__, Yanyue Xie*, Geng Yuan, Zhengang Li, Masoud Zabihi, Chao Wu, Sung-En Chang, Xufeng Zhang, Xue Lin, Caiwen Ding, Nobuyuki Yoshikawa, Olivia Chen, Yanzhi Wang
+  **Peiyan Dong***, Yanyue Xie*, Geng Yuan, Zhengang Li, Masoud Zabihi, Chao Wu, Sung-En Chang, Xufeng Zhang, Xue Lin, Caiwen Ding, Nobuyuki Yoshikawa, Olivia Chen, Yanzhi Wang
 + ***<font color=red> DAC 2023  </font>*** [Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge: Late Breaking Results](https://ieeexplore.ieee.org/abstract/document/10247761)
 
   Changdi Yang*, __Peiyan Dong*__, Yi Sheng, Zhenglun Kong, Yanyu Li, Pinrui Yu, Lei Yang, Xue Lin
