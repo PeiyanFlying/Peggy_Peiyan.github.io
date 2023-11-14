@@ -56,10 +56,10 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
 + ***<font color=red> ASP-DAC 2024  </font>*** [FF-Medical: Fast and Fair Medical AI on the Edge through Hardware-oriented Search for Hybrid Vision Models](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
   **Peiyan Dong**, Changdi Yang, Yi Sheng, Yanyu Li, Lei Yang, Xue Lin, Yanzhi Wang
-+ ***<font color=red> NeurIPS 2023  </font>***[HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> NeurIPS 2023  </font>***[HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://openreview.net/pdf?id=3Cj67k38st)
   
   **Peiyan Dong**, Zhenglun Kong, Xin Meng, Geng Yuan, Fei Sun, Hao Tang, Yanzhi Wang
-+ ***<font color=red> NeurIPS 2023  </font>*** [PackQViT: Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> NeurIPS 2023  </font>*** [PackQViT: Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile](https://openreview.net/pdf?id=N56hAiQvot)
   
   **Peiyan Dong**, Lei Lu, Chao Wu, Cheng Lyu, Geng Yuan, Hao Tang, Yanzhi Wang
 + ***<font color=red> ICML 2023  </font>*** [SpeedDETR: Speed-aware Transformers for End-to-end Object Detection](https://proceedings.mlr.press/v202/dong23b/dong23b.pdf)
@@ -80,7 +80,7 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
 + ***<font color=red> ICCAD 2023  </font>*** [Fast and Fair Medical AI on the Edge through Neural Architecture Search for Hybrid Vision Models](https://arxiv.org/abs/2309.12212)
 
   **Peiyan Dong**, Changdi Yang, Yi Sheng, Zhenglun Kong, Yanyu Li, Lei Yang, Xue Lin
-+ ***<font color=red> DAC 2023  </font>*** [Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration](https://arxiv.org/abs/2309.12212)
++ ***<font color=red> DAC 2023  </font>*** [Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration](https://ieeexplore.ieee.org/abstract/document/10247939)
 
   Zhengang Li*, __Peiyan Dong*__, Yanyue Xie, Olivia Chen, Yanzhi Wang
 + ***<font color=red> DATE 2023  </font>*** [SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits](https://arxiv.org/abs/2309.12212)
