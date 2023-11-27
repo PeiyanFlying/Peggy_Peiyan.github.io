@@ -51,10 +51,10 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
 + ***<font color=red> DAC 2020  </font>***  [Rtmobile: Beyond real-time mobile acceleration of rnns for speech recognition](https://dl.acm.org/doi/10.5555/3437539.3437579)
   
   **Peiyan Dong**, Siyue Wang, Wei Niu, Chengming Zhang, Sheng Lin, Bin Ren, Xue Lin, Dingwen Tao
-+ ***<font color=red> TCAD 2023  </font>***  [HetaViT: Hardware-Efficient and Token-Aware Joint Compression with Pruning and Quantization for Vision Transformers](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> TCAD 2023  </font>***  HetaViT: Hardware-Efficient and Token-Aware Joint Compression with Pruning and Quantization for Vision Transformers
   
   **Peiyan Dong**, Mengshu Sun, Yanyue Xie, Xue Lin, Zhenman Fang, Yanzhi Wang
-+ ***<font color=red> ASP-DAC 2024  </font>*** [FF-Medical: Fast and Fair Medical AI on the Edge through Hardware-oriented Search for Hybrid Vision Models](https://dl.acm.org/doi/10.5555/3437539.3437579)
++ ***<font color=red> ASP-DAC 2024  </font>*** FF-Medical: Fast and Fair Medical AI on the Edge through Hardware-oriented Search for Hybrid Vision Models
   
   **Peiyan Dong**, Changdi Yang, Yi Sheng, Yanyu Li, Lei Yang, Xue Lin, Yanzhi Wang
 + ***<font color=red> NeurIPS 2023  </font>***[HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception](https://openreview.net/pdf?id=3Cj67k38st)
@@ -78,19 +78,19 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
 + ***<font color=red> MICRO 2023  </font>*** [SupeRBNN: Randomized Binary Neural Network Using Adiabatic Superconductor Josephson Devices](https://arxiv.org/abs/2309.12212)
 
   Zhengang Li, Geng Yuan, Tomoharu Yamauchi, Zabihi Masoud, Yanyue Xie, **Peiyan Dong**, Xulong Tang, Nobuyuki Yoshikawa, Devesh Tiwari, Yanzhi Wang, Olivia Chen
-+ ***<font color=red> ICCAD 2023  </font>*** [Fast and Fair Medical AI on the Edge through Neural Architecture Search for Hybrid Vision Models](https://arxiv.org/abs/2309.12212)
++ ***<font color=red> ICCAD 2023  </font>*** Fast and Fair Medical AI on the Edge through Neural Architecture Search for Hybrid Vision Models
 
   **Peiyan Dong**, Changdi Yang, Yi Sheng, Zhenglun Kong, Yanyu Li, Lei Yang, Xue Lin
 + ***<font color=red> DAC 2023  </font>*** [Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration](https://ieeexplore.ieee.org/abstract/document/10247939)
 
   Zhengang Li*, __Peiyan Dong*__, Yanyue Xie, Olivia Chen, Yanzhi Wang
-+ ***<font color=red> DATE 2023  </font>*** [SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits](https://arxiv.org/abs/2309.12212)
++ ***<font color=red> DATE 2023  </font>*** SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits
 
   **Peiyan Dong***, Yanyue Xie*, Geng Yuan, Zhengang Li, Masoud Zabihi, Chao Wu, Sung-En Chang, Xufeng Zhang, Xue Lin, Caiwen Ding, Nobuyuki Yoshikawa, Olivia Chen, Yanzhi Wang
 + ***<font color=red> DAC 2023  </font>*** [Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge: Late Breaking Results](https://ieeexplore.ieee.org/abstract/document/10247761)
 
   Changdi Yang*, __Peiyan Dong*__, Yi Sheng, Zhenglun Kong, Yanyu Li, Pinrui Yu, Lei Yang, Xue Lin
-+ ***<font color=red> DAC 2023 WIP  </font>*** [SuperFlow: An RTL-to-GDS Design Automation Flow for AQFP Superconducting Devices](https://ieeexplore.ieee.org/abstract/document/10247761)
++ ***<font color=red> DAC 2023 WIP  </font>*** SuperFlow: An RTL-to-GDS Design Automation Flow for AQFP Superconducting Devices
 
   Yanyue Xie*, __Peiyan Dong*__, Geng Yuan, Zhengang Li, Xufeng Zhang, Olivia Chen, Nobuyuki Yoshikawa, Yanzhi Wang
 + ***<font color=red> ICCAD 2022  </font>*** [Quantum Neural Network Compression](https://dl.acm.org/doi/abs/10.1145/3508352.3549382)
@@ -102,7 +102,7 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
 + ***<font color=red> ASP-DAC 2021  </font>*** [Puncturing the memory wall: Joint optimization of network compression with approximate memory for ASR application](https://ieeexplore.ieee.org/document/9371622)
 
   Qin Li*, __Peiyan Dong*__, Zijie Yu, Changlu Liu, Fei Qiao, Yanzhi Wang, Huazhong Yang
-+ ***<font color=red> ISSCC 2021 SRP  </font>*** [A 22.3 nJ/Frame low-Memory beyond-real-Time keyword Spotting Chip with Configurable Feature Extraction and Distributed Perceptual Computation](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200127)
++ ***<font color=red> ISSCC 2021 SRP  </font>*** A 22.3 nJ/Frame low-Memory beyond-real-Time keyword Spotting Chip with Configurable Feature Extraction and Distributed Perceptual Computation
 
   Qin Li, Changlu Liu, **Peiyan Dong**, Yanming Zhang, Tong Li, Minda Yang, Fei Qiao, Yanzhi Wang, Li Luo, Huazhong Yang
 + ***<font color=red> Advanced Intelligent Systems 2022 (Impact Factor 7.4)  </font>*** [Floating Gate Transistor-Based Accurate Digital In-Memory Computing for Deep Neural Networks](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200127)
