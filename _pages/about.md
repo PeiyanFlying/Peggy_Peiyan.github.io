@@ -24,14 +24,15 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 (III) Machine learning algorithm conferences such as NeurIPS, ICML, CVPR, AAAI, ECCV, IJCAI, AAAI.
 (IV) Journal publications including TCAD, Advanced Intelligent Systems, TCASI, TECS, TPAMI.
 
-Among these, there are **17 first/co-first** author publications (top conferences/journals).
-I also received an **EECS Rising Star Award** in the EECS Rising Stars 2023.
++ Among these, there are **17 first/co-first** author publications (top conferences/journals).
++ I also received an **EECS Rising Star Award** in the EECS Rising Stars 2023.
 
 For more details, please see my [CV](https://drive.google.com/file/d/1wt5-rDC7ZY0U_868kTO7ciaJu2JbS4fU/view?usp=sharing).
 
 
 News
 ------
++ November 2023, I gave a talk on "Efficient AI on the Next-Generation Computing" in the **Symposium on Frontiers in Innovative Technology** held by the University of Michigan and Shanghai Jiao Tong University.
 + November 2023, one **design automation tool** for Superconducting circuits, AQFP, gets accepted at **DATE 2023**.
 + September 2023, **two** papers get accepted at **Neurips 2023**.
 + To be honored, I was selected as a **Rising Star** in EECS 2023.
@@ -139,6 +140,9 @@ Patents
   
 Invited Talks
 ------
++ ***<font color=red> Symposium on Frontiers in Innovative Technology, University of Michigan/Shanghai Jiao Tong University, 2023</font>*** Shanghai, China.
+
+  **TALK:** Efficient AI on the Next-Generation Computing
 + ***<font color=red> 4TH ROAD4NN WORKSHOP, DAC 2023</font>*** San Francisco, CA, USA
 
   **TALK:** [Software-Hardware Co-Design: Towards Ultimate Efficiency in Deep Learning Acceleration](https://www.sigarch.org/call-contributions/dac-road4nn-2023/)
