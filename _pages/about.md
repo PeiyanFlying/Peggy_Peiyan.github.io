@@ -25,7 +25,7 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 (IV) Journal publications including TCAD, Advanced Intelligent Systems, TCASI, TECS, TPAMI.
 
 + Among these, there are **17 first/co-first** author publications (top conferences/journals).
-+ I also received an **EECS Rising Star Award** in the EECS Rising Stars 2023.
++ I also received an **EECS Rising Star Award** in the [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/).
 
 For more details, please see my [CV](https://drive.google.com/file/d/1wt5-rDC7ZY0U_868kTO7ciaJu2JbS4fU/view?usp=sharing).
 
