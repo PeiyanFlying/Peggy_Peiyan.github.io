@@ -18,13 +18,13 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 + Inference/Energy-Efficient Artificial Intelligence Systems
 + Efficient Emerging Deep Learning Systems (Superconducting devices, Quantum Circuits)
 
-**Summary**: There are **36 publications** on top conferences/journals ranging from:
+**Summary**: There are **37 publications** on top conferences/journals ranging from:
 (I) EDA, solid-state circuit, and system conferences such as DAC, ICCAD, DATE, ISSCC, ASP-DAC, RTAS, MLSys.
 (II) Architecture and computer system conferences such as MICRO, HPCA, ICS.
 (III) Machine learning algorithm conferences such as NeurIPS, ICML, CVPR, AAAI, ECCV, IJCAI, AAAI.
 (IV) Journal publications including TCAD, Advanced Intelligent Systems, TCASI, TECS, TPAMI.
 
-+ Among these, there are **17 first/co-first** author publications (top conferences/journals).
++ Among these, there are **18 first/co-first** author publications (top conferences/journals).
 + I also received an **EECS Rising Star Award** in the [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/).
 
 For more details, please see my [CV](https://drive.google.com/file/d/1wt5-rDC7ZY0U_868kTO7ciaJu2JbS4fU/view?usp=sharing).
@@ -32,6 +32,7 @@ For more details, please see my [CV](https://drive.google.com/file/d/1wt5-rDC7ZY
 
 News
 ------
++ December 2023, one paper gets accepted at **AAAI 2023**.
 + November 2023, I gave a talk on "Efficient AI on the Next-Generation Computing" in the **Symposium on Frontiers in Innovative Technology** held by the University of Michigan and Shanghai Jiao Tong University.
 + November 2023, one **design automation tool** for Superconducting circuits, AQFP, gets accepted at **DATE 2023**.
 + September 2023, **two** papers get accepted at **Neurips 2023**.
@@ -73,6 +74,9 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
 + ***<font color=red> TECS 2021  </font>*** [Mobile or FPGA? A Comprehensive Evaluation on Energy Efficiency and a Unified Optimization Framework](https://dl.acm.org/doi/10.1145/3528578)
 
   **Peiyan Dong**, Guan Geng, Mengshu Sun, Wei Niu, Zhengang Li, Yuxuan Cai, Yanyu Li et al
++ ***<font color=red> AAAI 2023  </font>*** Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge
+
+  Xuan Shen*, __Peiyan Dong*__, Lei Lu, Zhenglun Kong, Zhengang Li, Ming Lin, Chao Wu, Yanzhi Wang
 + ***<font color=red> ECCV 2022  </font>*** [SPViT: Enabling Faster Vision Transformers via Soft Token Pruning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710618.pdf)
 
   Zhenglun Kong*, __Peiyan Dong*__, Xiaolong Ma, Xin Meng, Mengshu Sun, Wei Niu, Bin Ren, Minghai Qin, Hao Tang, Yanzhi Wang
