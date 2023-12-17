@@ -32,7 +32,7 @@ For more details, please see my [CV](https://drive.google.com/file/d/1wt5-rDC7ZY
 
 News
 ------
-+ December 2023, one paper gets accepted at **AAAI 2023**.
++ December 2023, one paper gets accepted at **AAAI 2024**.
 + November 2023, I gave a talk on "Efficient AI on the Next-Generation Computing" in the **Symposium on Frontiers in Innovative Technology** held by the University of Michigan and Shanghai Jiao Tong University.
 + November 2023, one **design automation tool** for Superconducting circuits, AQFP, gets accepted at **DATE 2023**.
 + September 2023, **two** papers get accepted at **Neurips 2023**.
