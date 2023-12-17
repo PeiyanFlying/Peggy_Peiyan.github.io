@@ -74,7 +74,7 @@ Selected Publications ([Full list](https://scholar.google.com/citations?user=OGU
 + ***<font color=red> TECS 2021  </font>*** [Mobile or FPGA? A Comprehensive Evaluation on Energy Efficiency and a Unified Optimization Framework](https://dl.acm.org/doi/10.1145/3528578)
 
   **Peiyan Dong**, Guan Geng, Mengshu Sun, Wei Niu, Zhengang Li, Yuxuan Cai, Yanyu Li et al
-+ ***<font color=red> AAAI 2023  </font>*** Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge
++ ***<font color=red> AAAI 2024  </font>*** [Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge](https://arxiv.org/abs/2312.05693#:~:text=9%20Dec%202023%5D-,Agile%2DQuant%3A%20Activation%2DGuided%20Quantization%20for%20Faster%20Inference,of%20LLMs%20on%20the%20Edge&text=Large%20Language%20Models%20(LLMs)%20stand,broad%20use%20on%20edge%20devices.)
 
   Xuan Shen*, __Peiyan Dong*__, Lei Lu, Zhenglun Kong, Zhengang Li, Ming Lin, Chao Wu, Yanzhi Wang
 + ***<font color=red> ECCV 2022  </font>*** [SPViT: Enabling Faster Vision Transformers via Soft Token Pruning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710618.pdf)
