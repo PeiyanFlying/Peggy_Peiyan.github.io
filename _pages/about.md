@@ -7,14 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a final-year Ph.D. Student at Northeastern University, Boston, advised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/).
-
-**<font color=red> I’m on the academic job market this year. Please reach out for any opportunities! </font>**
+I am a Postdoctoral Associate at the MIT Koch Institute and work with [Prof. Angela Belcher](https://be.mit.edu/directory/angela-belcher) and [Prof. Anantha P. Chandrakasan](https://chandrakasan.mit.edu/about/). Before that, I got my Ph.D. Degree at Northeastern University, Boston, advised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/).
 
 My research area is the intersection of Software-Hardware Co-design, Efficient AI Systems, Hardware Architecture, and Efficient Emerging Devices:
 
-+ Hardware and Software Co-design for DNN Architecture
++ Hardware and Software Co-design for AI Architecture on Life Science
 + Inference/Energy-Efficient Artificial Intelligence Systems
 + Efficient Emerging Deep Learning Systems (Superconducting devices, Quantum Circuits)
 
@@ -24,8 +21,9 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 (III) Machine learning algorithm conferences such as NeurIPS, ICML, CVPR, AAAI, ECCV, IJCAI, AAAI.
 (IV) Journal publications including TCAD, Advanced Intelligent Systems, TCASI, TECS, TPAMI.
 
-+ Among these, there are **18 first/co-first** author publications.
++ Among these, there are **17 first/co-first** author publications.
 + I also received an **EECS Rising Star Award** in the [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/).
++ I also receive the MIT-Novo Nordisk Postdoctoral Fellowship, 2024.
 
 For more details, please see my [CV](https://drive.google.com/file/d/1wt5-rDC7ZY0U_868kTO7ciaJu2JbS4fU/view?usp=sharing).
 
