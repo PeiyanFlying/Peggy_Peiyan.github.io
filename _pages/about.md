@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Fellow at the MIT Koch Institute and work with [Prof. Angela Belcher](https://be.mit.edu/directory/angela-belcher) and [Prof. Anantha P. Chandrakasan](https://chandrakasan.mit.edu/about/). Before that, I got my Ph.D. Degree at Northeastern University, Boston, advised by [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/).
+I am a Postdoctoral Fellow at the MIT Koch Institute. I am fortunate to work with [Prof. Angela Belcher](https://be.mit.edu/directory/angela-belcher) and [Prof. Anantha P. Chandrakasan](https://chandrakasan.mit.edu/about/). Prior to that, I earned my Ph.D. at Northeastern University in Boston, under the guidance of [Prof. Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/).
 
 My research area is the intersection of Software-Hardware Co-design, Efficient AI Systems, Hardware Architecture, and Efficient Emerging Devices:
 
