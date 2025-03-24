@@ -158,6 +158,7 @@ Invited Talks
 
 Honors
 ------
++ **MIT-Novo Nordisk Postdoctoral Fellowship**
 + **EECS Rising Star Award**, The EECS Rising Stars Workshop, 2023
 + **Northeastern University Dissertation Completion Fellowships**, 2023
 + **Oral Paper Award**, The 37th Annual AAAI Conference on Artificial Intelligence, 2022
