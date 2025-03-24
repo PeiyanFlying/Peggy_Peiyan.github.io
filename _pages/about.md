@@ -32,6 +32,7 @@ For more details, please see my [CV](https://drive.google.com/file/d/1GP_EZ1j8Fr
 News
 ------
 + December 2024, one paper gets accepted at **ICASSP 2025**.
++ August 2024, two papers get accepted at **TCAD 2024**.
 + December 2023, one paper gets accepted at **AAAI 2024**.
 + November 2023, I gave a talk on "Efficient AI on the Next-Generation Computing" in the **Symposium on Frontiers in Innovative Technology** held by the University of Michigan and Shanghai Jiao Tong University.
 + November 2023, one **design automation tool** for Superconducting circuits, AQFP, gets accepted at **DATE 2023**.
