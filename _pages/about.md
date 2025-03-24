@@ -11,7 +11,8 @@ I am a Postdoctoral Fellow at the MIT Koch Institute. I am fortunate to work wit
 
 My research area is the intersection of Software-Hardware Co-design, Efficient AI Systems, Hardware Architecture, and Efficient Emerging Devices:
 
-+ Hardware and Software Co-design for AI Architecture on Life Science
++ In Vivo AI Systems for Early-Stage Ovarian Cancer Detection
++ Hardware-Software Co-design for AI-based Portable Healthcare Devices
 + Inference/Energy-Efficient Artificial Intelligence Systems
 + Efficient Emerging Deep Learning Systems (Superconducting devices, Quantum Circuits)
 
