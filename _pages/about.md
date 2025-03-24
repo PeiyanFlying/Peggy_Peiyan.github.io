@@ -154,6 +154,23 @@ Invited Talks
 + ***<font color=red> TINYML: BRING DEEP LEARNING MODELS TO TINY DEVICES, DAC 2023</font>*** San Francisco, CA, USA
 
   **TALK:** [Algorithm-Software-Hardware Co-Design for AI Acceleration](https://www.dac.com/)
++ ***<font color=red>Invited Research Seminar Speaker</font>*** at:
+  - Washington University in St. Louis, ECE — Jan. 2024  
+  - Binghamton University, ECE & CS — Jan. 2024  
+  - University of Texas at Dallas, ECE — Feb. 2024  
+  - New Jersey Institute of Technology, DS & CS — Feb. 2024  
+  - Stevens Institute of Technology, CS — Feb. 2024  
+  - Northwestern University, ECE — Mar. 2024  
+  - University of Wisconsin–Madison, ECE — Mar. 2024  
+  - University of Waterloo, ECE — Mar. 2024  
+  - University of Arizona, ECE — Mar. 2024  
+  - Lehigh University, ECE — Mar. 2024  
+  - University of Virginia, ECE — Mar. 2024  
+  - Stony Brook University, ECE — Mar. 2024  
+  - University of Utah, ECE — Mar. 2024  
+  - Brown University, ECE — Apr. 2024  
+  - Yale University, EE & CSE — Apr. 2024 
+
 
 
 Honors
