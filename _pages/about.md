@@ -26,7 +26,7 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 + I also received an **EECS Rising Star Award** in the [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/).
 + I also receive the **MIT-Novo Nordisk Postdoctoral Fellowship**, 2024.
 
-For more details, please see my [CV](https://drive.google.com/file/d/16QcjUUQrt9Rs111KV-rk9EofbcuBPuNx/view?usp=sharing).
+For more details, please see my [CV](https://drive.google.com/file/d/1C1flC5IPW1TSRr-XjrdJstf0fnFpPKil/view?usp=sharing).
 
 
 News
