@@ -31,9 +31,9 @@ For more details, please see my [CV](https://drive.google.com/file/d/1C1flC5IPW1
 
 News
 ------
-+ Apr 2025, give a talk named "Governing AI You Cannot See: Ethics, Trust and the Medical Microchip" at Novo Nordisk Journal Club, MIT.
++ Apr 2025, give a talk named "Governing AI You Cannot See: Ethics, Trust and the Medical Microchip" at **Novo Nordisk Journal Club, MIT**.
 + Feb 2025, give a talk named "Fallopian Tube Tissue Diagnosis Based on “Label-Free” Hyperspectral Imaging Signatures Using
-AI" at Intercepting Ovarian Cancer (IOC/MOD) Lab, MIT.
+AI" at **Intercepting Ovarian Cancer (IOC/MOD) Lab, MIT**.
 + December 2024, one paper gets accepted at **ICASSP 2025**.
 + August 2024, two papers get accepted at **TCAD 2024**.
 + December 2023, one paper gets accepted at **AAAI 2024**.
