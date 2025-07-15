@@ -16,7 +16,7 @@ My research area is the intersection of Software-Hardware Co-design, Efficient A
 + Inference/Energy-Efficient Artificial Intelligence Systems
 + Efficient Emerging Deep Learning Systems (Superconducting devices, Quantum Circuits)
 
-**Summary**: There are **37 publications** on top conferences/journals ranging from:
+**Summary**: The publications span top-tier conferences and journals across multiple domains, including:
 (I) EDA, solid-state circuit, and system conferences such as DAC, ICCAD, DATE, ISSCC, ASP-DAC, RTAS, MLSys.
 (II) Architecture and computer system conferences such as MICRO, HPCA, ICS.
 (III) Machine learning algorithm conferences such as NeurIPS, ICML, CVPR, AAAI, ECCV, IJCAI, AAAI.
